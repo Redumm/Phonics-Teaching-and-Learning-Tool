@@ -13,3 +13,17 @@ This tool focuses on the assessment, the progress tracking, and the targeted lea
 * Show notifications if a student's progress falls below a certain level
 * Log students' special educational needs and targets
 * Print the class list showing students' special educational needs and targets
+
+## Screenshots
+
+![Home Screen](Screenshots/home-screen.png)
+
+![Choosing an Assessment](Screenshots/choose-assessment.png)
+
+![Performing an Assessment](Screenshots/perform-assessment.png)
+
+![Printing a Custom Worksheet](Screenshots/print-custom-worksheet.png)
+
+![Manage Class Special Educational Needs and Targets](Screenshots/manage-class.png)
+
+![View Student Progress and Common Mistakes](Screenshots/view-class.png)

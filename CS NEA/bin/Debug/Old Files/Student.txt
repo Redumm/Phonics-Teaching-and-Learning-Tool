@@ -1,0 +1,7 @@
+5,"Baston","Matt","Y","N","N","N","N","N/A"
+3,"Burnham","Jacob","N","N","N","N","Y","N/A"
+0,"Patten","Dan","N","N","Y","N","N","N/A"
+1,"Prangnell","Louis","N","Y","N","N","N","N/A"
+4,"Thornton","Harvey","Y","N","N","N","Y","N/A"
+2,"White","Maxim","N","Y","N","Y","N","N/A"
+6,"Test","Dan","Y","N","N","Y","N","N/A"

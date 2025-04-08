@@ -1,0 +1,4 @@
+0,"White","Maxim","N","N","N","Y","N","4 Sound Words"
+1,"Patten","Dan","N","N","Y","N","N","N/A"
+3,"Burnham","Jacob","N","N","N","N","Y","4 Sound Words"
+4,"Baston","Matt","Y","N","N","N","N","N/A"

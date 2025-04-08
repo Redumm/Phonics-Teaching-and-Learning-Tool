@@ -1,0 +1,70 @@
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.AssemblyReference.cache
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmMenu.resources
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.Resources.resources
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.GenerateResource.cache
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.CoreCompileInputs.cache
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe.config
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.pdb
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.xml
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.exe
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.xml
+U:\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.pdb
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe.config
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.pdb
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.xml
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.AssemblyReference.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmMenu.resources
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.Resources.resources
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.GenerateResource.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.CoreCompileInputs.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.exe
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.xml
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.pdb
+\\sch5409.poole.sch.uk\public\homedirs\students\16\16whitemax\My Documents\Visual Studio 2019\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmManageClass.resources
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe.config
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.pdb
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.xml
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.AssemblyReference.cache
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.SuggestedBindingRedirects.cache
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmManageClass.resources
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmMenu.resources
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.Resources.resources
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.GenerateResource.cache
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.exe
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.xml
+C:\Users\max\Desktop\Subjects\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.pdb
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe.config
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.pdb
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.xml
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.AssemblyReference.cache
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.SuggestedBindingRedirects.cache
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmManageClass.resources
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmMenu.resources
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.Resources.resources
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.GenerateResource.cache
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.exe
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.xml
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.pdb
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmViewClass.resources
+C:\Users\max\Desktop\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmAssessments.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe.config
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.exe
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.pdb
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\bin\Debug\CS NEA.xml
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.AssemblyReference.cache
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmAssessments.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmManageClass.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmMenu.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.frmViewClass.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS_NEA.Resources.resources
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.GenerateResource.cache
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.vbproj.CoreCompileInputs.cache
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.exe
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.xml
+C:\Users\max\Documents\Computer Science\Projects\CS NEA\CS NEA\obj\Debug\CS NEA.pdb

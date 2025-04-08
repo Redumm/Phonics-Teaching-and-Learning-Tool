@@ -18,12 +18,24 @@ This tool focuses on the assessment, the progress tracking, and the targeted lea
 
 ![Home Screen](Screenshots/home-screen.png)
 
+This screenshot shows the home screen where the distribution of the phonics levels of the class can be viewed along with progress notifications. This is the main screen to navigate to other parts of the program.
+
 ![Choosing an Assessment](Screenshots/choose-assessment.png)
+
+This screenshot shows the choose assessments screen where official Read Write Inc. assessments can be started along with generating a target words worksheet.
 
 ![Performing an Assessment](Screenshots/perform-assessment.png)
 
+This screenshot shows the assessments screen which is laid out in the same format and uses the same content as the official Read Write Inc. assessments. Correct words / phonemes are marked by clicking on them to become highlighted.
+
 ![Printing a Custom Worksheet](Screenshots/print-custom-worksheet.png)
+
+This screenshot shows the print dialog for a custom worksheet which displays up to 8 phonemes / words along with the name of the student in the corner. The lines can be cut along in order to create flashcards.
 
 ![Manage Class Special Educational Needs and Targets](Screenshots/manage-class.png)
 
+This screenshot shows the manage class screen where the teacher can log special educational needs and targets. This table can also be printed.
+
 ![View Student Progress and Common Mistakes](Screenshots/view-class.png)
+
+This screenshot shows the view class screen where the teacher can view each student's progress in the form of a graph and their most common mistakes. 
